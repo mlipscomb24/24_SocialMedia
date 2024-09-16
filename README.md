@@ -53,7 +53,7 @@ This project is a RESTful API for a social network web application where users c
 ## Demo
 
 ### Screenshot
-![Insomnia Screenshot](insomnia_18.png)
+![Insomnia Screenshot](Insomnia_18.png)
 
 ### Video Walkthrough
 [Click here to view the Screencastify demo - GET](https://app.screencastify.com/v2/manage/videos/JXgxh99y8zr6qIDC57dV)
