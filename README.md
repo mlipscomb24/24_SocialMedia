@@ -9,6 +9,7 @@ This project is a RESTful API for a social network web application where users c
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Routes](#api-routes)
+- [Demo](#demo)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
@@ -49,6 +50,16 @@ This project is a RESTful API for a social network web application where users c
 - POST /api/users/:userId/friends/:friendId - Add a friend to a user's friend list
 - DELETE /api/users/:userId/friends/:friendId - Remove a friend from a user's friend list
 
+## Demo
+
+### Screenshot
+![Insomnia Screenshot](./insomnia_18.png)
+
+### Video Walkthrough
+[Click here to view the Screencastify demo - GET](https://app.screencastify.com/v2/manage/videos/JXgxh99y8zr6qIDC57dV)
+[Click here to view the Screencastify demo - PUT & POST](https://app.screencastify.com/v2/manage/videos/KalsHj64muad4wLOZRGs)
+[Click here to view the Screencastify demo - DELETE](https://app.screencastify.com/v2/manage/videos/t98tHi49PZvvKGlB8C1D)
+
 ## Technologies Used
 
 - Node.js
@@ -62,4 +73,3 @@ Contributions to this project are welcome. Please fork the repository and submit
 
 ## License
 
-NA
