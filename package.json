@@ -1,0 +1,14 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "A social network API built with Express.js and MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node seeds/seed.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.13"
+  }
+}
